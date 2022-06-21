@@ -1,0 +1,114 @@
+body {
+    background-image: url(./fondo.jpg);
+    position: absolute;
+    width: 2000px;
+    height: 900px;
+    left: 0px;
+    top: 1px;
+}
+
+h1 {
+    position: absolute;
+    width: 262px;
+    height: 180px;
+    left: 875px;
+    top: -50px;
+    font-family: 'Tangerine', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+    color: #DDA448;
+}
+
+img {
+    position: absolute;
+    width: 1196px;
+    height: 373px;
+    left: 122px;
+    top: 400px;
+}
+
+.bebidas{
+    position: absolute;
+    width: 1196px;
+    height: 373px;
+    left: 360px;
+    top: 286px; 
+}
+
+h2{
+    position: absolute;
+    width: 186px;
+    height: 31px;
+    left: 950px;
+    top: 300px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+h3{
+    position: absolute;
+    width: 186px;
+    height: 31px;
+    left: 1280px;
+    top: 420px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.listabebidas{
+    position: absolute;
+    font-family: 'Fjalla One';
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    left: 980px;
+    top: 350px;
+}
+
+.vinos1{
+    position: absolute;
+    font-family: 'Fjalla One';
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 31px;
+    left: 1220px;
+    top: 480px;
+}
+
+.flecha {
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    left: 10px;
+    top: 65px;
+}
+
+.flecha2 {
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    left: 1800px;
+    top: 750px;
+}

@@ -1,0 +1,226 @@
+body {
+    background-image: url(./fondo.jpg);
+    position: absolute;
+    width: 1225px;
+    height: 900px;
+    left: 0px;
+    top: 1px;
+}
+
+
+.fondo2{
+    position: absolute;
+    width: 1920px;
+    height: 536px;
+    left: -10px;
+    top: 116px;
+    opacity: 0.6;    
+}
+
+h1 {
+    position: absolute;
+    width: 523px;
+    height: 80px;
+    left: 700px;
+    top: 0px;
+    font-family: 'Tangerine';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 80px;
+    display: flex;
+    align-items: center;
+
+    color: #DDA448;
+}
+
+h2 {
+    position: absolute;
+    width: 686px;
+    height: 101px;
+    left: 625px;
+    top: 200px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 101px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+
+}
+
+h3 {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 850px;
+    top: 375px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 101px;
+    display: flex;
+    align-items: center;
+
+    background: rgba(5, 7, 12, 0.40);
+
+    color: #FFFFFF;
+
+}
+
+h4 {
+    position: absolute;
+    width: 95px;
+    height: 31px;
+    left: 100px;
+    top: 650px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF; 
+}
+
+h5{
+    position: absolute;
+    width: 84px;
+    height: 31px;
+    left: 600px;
+    top: 645px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+h6{
+    position: absolute;
+    width: 86px;
+    height: 31px;
+    left: 1100px;
+    top: 630px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.ubicacion{
+    position: absolute;
+    width: 195px;
+    height: 75px;
+    left: 180px;
+    top: 720px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    
+    align-items: center;
+
+    color: #FFFFFF;
+    
+}
+
+.horarios{
+    position: absolute;
+    width: 215px;
+    height: 75px;
+    left: 650px;
+    top: 717px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.contacto{
+    position: absolute;
+    width: 231px;
+    height: 75px;
+    left: 1150px;
+    top: 718px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.instagram{
+    position: absolute;
+    width: 70px;
+    height: 71px;
+    left: 1650px;
+    top: 765px;
+}
+
+.facebook{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    left: 1750px;
+    top: 762px;
+}
+
+h7{
+    position: absolute;
+    width: 99px;
+    height: 52px;
+    left: 1680px;
+    top: 700px;
+
+    font-family: 'Fjalla One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.flecha {
+    position: absolute;
+    width: 70px;
+    height: 40px;
+    left: 10px;
+    top: 75px;
+}
